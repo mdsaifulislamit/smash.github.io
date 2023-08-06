@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: RT2 Lab
-author: RT2 Lab
-email: your-email@domain.com
+title: SMASH Lab
+author: Saiful Islam
+email: sohelcse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  SMASH: Smart Data Analytics and Artificial Intelligence (AI) for Sustainable Humanity. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: ""
-url: "http://rt2lab.github.io"
+url: "http://smash.github.io"
 
 google_analytics: UA-105599779-7
 

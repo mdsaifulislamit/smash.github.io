@@ -6,7 +6,7 @@ permalink: /
 
 **SMASH: Smart Data Analytics and Artificial Intelligence (AI) for Sustainable Humanity.**
 
-The SMASH lab is a cutting-edge research facility dedicated to exploring and advancing the fields of smart data analytics and artificial intelligence. It serves as a hub for innovation, collaboration, and knowledge dissemination in the realm of data-driven technologies.
+The SMASH lab is a cutting-edge research facility dedicated to exploring and advancing the fields of smart data analytics and artificial intelligence (AI). It serves as a hub for innovation, collaboration, and knowledge dissemination in the realm of data-driven technologies. We focus on leveraging smart data analytics and AI to address challenges and contribute to sustainable advancements in various aspects of human life, ranging from healthcare and environmental sustainability to economic development and social well-being.
 
 **Mission:**
 
